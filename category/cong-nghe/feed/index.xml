@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Công nghệ &#8211; Review Công Nghệ</title>
+	<title>Công nghệ &#8211; DGT Generation</title>
 	<atom:link href="http://localhost/wordpress/category/cong-nghe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://giatrung.github.io/workpress</link>
-	<description>Bản tin công nghệ 4.0</description>
-	<lastBuildDate>Wed, 15 Sep 2021 00:13:23 +0000</lastBuildDate>
+	<description>Góc nhìn mới công nghệ 4.0</description>
+	<lastBuildDate>Wed, 15 Sep 2021 02:35:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,24 +22,75 @@
 
 <image>
 	<url>https://giatrung.github.io/workpress/wp-content/uploads/2021/09/Untitled-1-1.jpg</url>
-	<title>Công nghệ &#8211; Review Công Nghệ</title>
+	<title>Công nghệ &#8211; DGT Generation</title>
 	<link>https://giatrung.github.io/workpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello</title>
-		<link>https://giatrung.github.io/workpress/hello/</link>
-					<comments>https://giatrung.github.io/workpress/hello/#respond</comments>
+		<title>Ấn tượng đầu tiên Huawei P50: Giá 16 triệu* dùng chip Snapdragon 888</title>
+		<link>https://giatrung.github.io/workpress/an-tuong-dau-tien-huawei-p50-gia-16-trieu-dung-chip-snapdragon-888/</link>
+					<comments>https://giatrung.github.io/workpress/an-tuong-dau-tien-huawei-p50-gia-16-trieu-dung-chip-snapdragon-888/#respond</comments>
 		
 		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
-		<pubDate>Mon, 13 Sep 2021 00:43:02 +0000</pubDate>
+		<pubDate>Wed, 15 Sep 2021 02:35:06 +0000</pubDate>
 				<category><![CDATA[Công nghệ]]></category>
-		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=203</guid>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=234</guid>
 
-					<description><![CDATA[dqưẻqư]]></description>
+					<description><![CDATA[Cứ mỗi khi Huawei trình làng một chiếc điện thoại cao cấp dòng P-series là sản phẩm đó trở thành tâm điểm mới trong giới smartphone và Huawei P50 ra &#8230;]]></description>
 		
-					<wfw:commentRss>https://giatrung.github.io/workpress/hello/feed/</wfw:commentRss>
+					<wfw:commentRss>https://giatrung.github.io/workpress/an-tuong-dau-tien-huawei-p50-gia-16-trieu-dung-chip-snapdragon-888/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple vừa cho ra mắt phiên bản MacBook Air M1 2020 (MGND3SA/A) </title>
+		<link>https://giatrung.github.io/workpress/224-2/</link>
+					<comments>https://giatrung.github.io/workpress/224-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 02:20:36 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=224</guid>
+
+					<description><![CDATA[Sang trọng, cơ động và đẳng cấp Được chế tác tinh xảo từ kim loại nguyên khối tái chế, Apple đem đến một phiên bản MacBook &#8230;]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/224-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook Pro 2021 rumors: Release date, price, M1X and more</title>
+		<link>https://giatrung.github.io/workpress/macbook-pro-2021-rumors-release-date-price-m1x-and-more/</link>
+					<comments>https://giatrung.github.io/workpress/macbook-pro-2021-rumors-release-date-price-m1x-and-more/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 02:17:22 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=222</guid>
+
+					<description><![CDATA[Significant changes to the MacBook Pro line are rumored to include a new 14-inch size, more powerful M1X processor, mini LED screen and no Touch &#8230;]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/macbook-pro-2021-rumors-release-date-price-m1x-and-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPad mini 6 lộ cấu hình và giá bán hấp dẫn trước giờ ra mắt: Phím nguồn tích hợp Touch ID, hỗ trợ bút Pencil 2,&#8230;</title>
+		<link>https://giatrung.github.io/workpress/ipad-mini-6-lo-cau-hinh-va-gia-ban-hap-dan-truoc-gio-ra-mat-phim-nguon-tich-hop-touch-id-ho-tro-but-pencil-2/</link>
+					<comments>https://giatrung.github.io/workpress/ipad-mini-6-lo-cau-hinh-va-gia-ban-hap-dan-truoc-gio-ra-mat-phim-nguon-tich-hop-touch-id-ho-tro-but-pencil-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 02:05:18 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=209</guid>
+
+					<description><![CDATA[iPad mini 6 được cho là sẽ ra mắt cùng với dòng iPhone 13 (tạm gọi) và các sản phẩm khác của Apple tại sự kiện 14/9 (giờ Mỹ). Trước &#8230;]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/ipad-mini-6-lo-cau-hinh-va-gia-ban-hap-dan-truoc-gio-ra-mat-phim-nguon-tich-hop-touch-id-ho-tro-but-pencil-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -55,7 +106,7 @@
 		<category><![CDATA[Vehicles]]></category>
 		<guid isPermaLink="false">http://localhost:8080/myproject/wordpress-5.8/wordpress/?p=109</guid>
 
-					<description><![CDATA[Tốc độ là thứ mà con người muốn chinh phục và chưa có dấu hiệu dừng lại, bất kể cho đó có phải là nhu cầu thiết yếu hay không. Những phương tiện di chuyển ngày càng nhanh hơn, và thế giới siêu xe cũng liên tục biến động khi hiện tại có thể họ đang giữ ... <a title="Top 15 siêu xe nhanh nhất thế giới tính đến hết năm 2020" class="read-more" href="https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/" aria-label="More on Top 15 siêu xe nhanh nhất thế giới tính đến hết năm 2020">Read more</a>]]></description>
+					<description><![CDATA[Tốc độ là thứ mà con người muốn chinh phục và chưa có dấu hiệu dừng lại, bất kể cho đó có phải là nhu &#8230;]]></description>
 		
 					<wfw:commentRss>https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -73,7 +124,7 @@
 		<category><![CDATA[iPhone]]></category>
 		<guid isPermaLink="false">http://localhost:8080/myproject/wordpress-5.8/wordpress/?p=20</guid>
 
-					<description><![CDATA[Xét về tổng thể, không có sự khác biệt lớn về thiết kế trên các mẫu iPhone mới so với thế hệ hiện tại. Có sự thay đổi ở độ dày của thân máy nhưng không đáng đáng kể. Điểm khác biệt về ngoại hình có thể nhận ra đó là cụm camera trên iPhone 13 và iPhone 13 Mini sẽ ... <a title="[Video] Trên tay dummy iPhone 13, ‌iPhone 13‌ mini, ‌iPhone 13‌ Pro và ‌iPhone 13‌ Pro Max" class="read-more" href="https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/" aria-label="More on [Video] Trên tay dummy iPhone 13, ‌iPhone 13‌ mini, ‌iPhone 13‌ Pro và ‌iPhone 13‌ Pro Max">Read more</a>]]></description>
+					<description><![CDATA[Xét về tổng thể, không có sự khác biệt lớn về thiết kế trên các mẫu iPhone mới so với thế hệ hiện tại. Có sự thay &#8230;]]></description>
 		
 					<wfw:commentRss>https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
