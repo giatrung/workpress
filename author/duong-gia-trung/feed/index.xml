@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Duong Gia Trung &#8211; Review Công Nghệ</title>
+	<atom:link href="http://localhost/wordpress/author/duong-gia-trung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://giatrung.github.io/workpress</link>
+	<description>Bản tin công nghệ 4.0</description>
+	<lastBuildDate>Wed, 15 Sep 2021 00:13:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://https://giatrung.github.io/workpress/wp-content/uploads/2021/09/Untitled-1-1.jpg</url>
+	<title>Duong Gia Trung &#8211; Review Công Nghệ</title>
+	<link>http://https://giatrung.github.io/workpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello</title>
+		<link>http://https://giatrung.github.io/workpress/hello/</link>
+					<comments>http://https://giatrung.github.io/workpress/hello/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 00:43:02 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<guid isPermaLink="false">http://https://giatrung.github.io/workpress/?p=203</guid>
+
+					<description><![CDATA[dqưẻqư]]></description>
+		
+					<wfw:commentRss>http://https://giatrung.github.io/workpress/hello/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 15 siêu xe nhanh nhất thế giới tính đến hết năm 2020</title>
+		<link>http://https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/</link>
+					<comments>http://https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Mon, 06 Sep 2021 00:52:20 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<category><![CDATA[Vehicles]]></category>
+		<guid isPermaLink="false">http://localhost:8080/myproject/wordpress-5.8/wordpress/?p=109</guid>
+
+					<description><![CDATA[Tốc độ là thứ mà con người muốn chinh phục và chưa có dấu hiệu dừng lại, bất kể cho đó có phải là nhu cầu thiết yếu hay không. Những phương tiện di chuyển ngày càng nhanh hơn, và thế giới siêu xe cũng liên tục biến động khi hiện tại có thể họ đang giữ ... <a title="Top 15 siêu xe nhanh nhất thế giới tính đến hết năm 2020" class="read-more" href="http://https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/" aria-label="More on Top 15 siêu xe nhanh nhất thế giới tính đến hết năm 2020">Read more</a>]]></description>
+		
+					<wfw:commentRss>http://https://giatrung.github.io/workpress/top-15-sieu-xe-nhanh-nhat-the-gioi-tinh-den-het-nam-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[Video] Trên tay dummy iPhone 13, ‌iPhone 13‌ mini, ‌iPhone 13‌ Pro và ‌iPhone 13‌ Pro Max</title>
+		<link>http://https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/</link>
+					<comments>http://https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Mon, 06 Sep 2021 00:20:33 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">http://localhost:8080/myproject/wordpress-5.8/wordpress/?p=20</guid>
+
+					<description><![CDATA[Xét về tổng thể, không có sự khác biệt lớn về thiết kế trên các mẫu iPhone mới so với thế hệ hiện tại. Có sự thay đổi ở độ dày của thân máy nhưng không đáng đáng kể. Điểm khác biệt về ngoại hình có thể nhận ra đó là cụm camera trên iPhone 13 và iPhone 13 Mini sẽ ... <a title="[Video] Trên tay dummy iPhone 13, ‌iPhone 13‌ mini, ‌iPhone 13‌ Pro và ‌iPhone 13‌ Pro Max" class="read-more" href="http://https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/" aria-label="More on [Video] Trên tay dummy iPhone 13, ‌iPhone 13‌ mini, ‌iPhone 13‌ Pro và ‌iPhone 13‌ Pro Max">Read more</a>]]></description>
+		
+					<wfw:commentRss>http://https://giatrung.github.io/workpress/video-tren-tay-dummy-iphone-13-%e2%80%8ciphone-13%e2%80%8c-mini-%e2%80%8ciphone-13%e2%80%8c-pro-va-%e2%80%8ciphone-13%e2%80%8c-pro-max/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
