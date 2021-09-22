@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apple Care &#8211; DGT APPLE</title>
+	<atom:link href="http://localhost/wordpress/product-category/apple-care/feed/" rel="self" type="application/rss+xml" />
+	<link>https://giatrung.github.io/workpress</link>
+	<description>Authorised Reseller</description>
+	<lastBuildDate>Wed, 22 Sep 2021 09:51:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>AppleCare cho MacBook Air/ 13inch MacBook Pro</title>
+		<link>https://giatrung.github.io/workpress/product/applecare-cho-macbook-air-13inch-macbook-pro/</link>
+					<comments>https://giatrung.github.io/workpress/product/applecare-cho-macbook-air-13inch-macbook-pro/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 08:36:33 +0000</pubDate>
+				<guid isPermaLink="false">https://giatrung.github.io/workpress/?post_type=product&#038;p=732</guid>
+
+					<description><![CDATA[<span style="font-family: helvetica, arial, sans-serif;"><strong>Qùa khuyến mại </strong></span>
+<ul>
+ 	<li>
+<div class="sdo-qua-km-new">
+
+<span style="font-family: helvetica, arial, sans-serif;">Sản phẩm này không có thông tin khuyến mại</span>
+
+</div></li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/product/applecare-cho-macbook-air-13inch-macbook-pro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

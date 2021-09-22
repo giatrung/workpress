@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iPhone12Pro &#8211; DGT APPLE</title>
+	<atom:link href="http://localhost/wordpress/product-tag/iphone12pro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://giatrung.github.io/workpress</link>
+	<description>Authorised Reseller</description>
+	<lastBuildDate>Wed, 22 Sep 2021 03:02:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>iPhone 12 Pro VN/A</title>
+		<link>https://giatrung.github.io/workpress/product/iphone-12-pro-vn-a/</link>
+					<comments>https://giatrung.github.io/workpress/product/iphone-12-pro-vn-a/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 02:40:20 +0000</pubDate>
+				<guid isPermaLink="false">https://giatrung.github.io/workpress/?post_type=product&#038;p=485</guid>
+
+					<description><![CDATA[<span style="font-family: georgia, palatino, serif;"><strong><label>Quà khuyến mãi</label></strong></span>
+<ul>
+ 	<li><span style="font-family: georgia, palatino, serif;">Trả góp 0% lãi suất thẻ tín dụng</span></li>
+ 	<li><span style="font-family: georgia, palatino, serif;">Giảm 5% khi mua 1 phụ kiện, 10% khi mua 2 phụ kiện, 15% khi mua từ 3 phụ kiện (không áp dụng cho phụ kiện chính hãng Apple)</span></li>
+ 	<li><span style="font-family: georgia, palatino, serif;">Tặng Voucher 100.000đ khi mua phụ kiện: Pencil, Keyboard, Magic Mouse, Sạc / Cáp, Ốp lưng / Ví da chính hãng Apple (không áp dụng với củ sạc 20W)</span></li>
+ 	<li><span style="font-family: georgia, palatino, serif;">(Lưu ý: Chương trình KM tính trên giá niêm yết, không áp dụng chung với KM khác)</span></li>
+</ul>
+<ul>
+ 	<li><span style="font-family: georgia, palatino, serif;">Back to school 2021: Tặng Voucher 200K cho Học sinh, Sinh viên <a href="https://khuyenmai.shopdunk.com/backtoschool2021">(xem ngay)</a></span></li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/product/iphone-12-pro-vn-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
