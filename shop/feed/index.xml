@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://giatrung.github.io/workpress</link>
 	<description>Authorised Reseller</description>
-	<lastBuildDate>Wed, 22 Sep 2021 13:53:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Sep 2021 13:04:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>iPad Air 3</title>
+		<link>https://giatrung.github.io/workpress/product/ipad-air-3/</link>
+					<comments>https://giatrung.github.io/workpress/product/ipad-air-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 12:58:28 +0000</pubDate>
+				<guid isPermaLink="false">https://giatrung.github.io/workpress/?post_type=product&#038;p=905</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://giatrung.github.io/workpress/product/ipad-air-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>AppleCare cho MacBook Air/ 13inch MacBook Pro</title>
 		<link>https://giatrung.github.io/workpress/product/applecare-cho-macbook-air-13inch-macbook-pro/</link>
 					<comments>https://giatrung.github.io/workpress/product/applecare-cho-macbook-air-13inch-macbook-pro/#respond</comments>
@@ -231,30 +247,6 @@
 </ul>]]></description>
 		
 					<wfw:commentRss>https://giatrung.github.io/workpress/product/macbook-pro-m1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>MacBook Air 2019</title>
-		<link>https://giatrung.github.io/workpress/product/macbook-air-2019/</link>
-					<comments>https://giatrung.github.io/workpress/product/macbook-air-2019/#respond</comments>
-		
-		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
-		<pubDate>Wed, 22 Sep 2021 07:41:39 +0000</pubDate>
-				<guid isPermaLink="false">https://giatrung.github.io/workpress/?post_type=product&#038;p=681</guid>
-
-					<description><![CDATA[<span style="color: #000000;"><strong>Quà khuyến mại</strong></span>
-<ul>
- 	<li><span style="color: #000000;">Trả góp 0% lãi suất thẻ tín dụng</span></li>
- 	<li><span style="color: #000000;">Giảm 5% khi mua 1 phụ kiện, 10% khi mua 2 phụ kiện, 15% khi mua từ 3 phụ kiện (không áp dụng cho phụ kiện chính hãng Apple)</span></li>
- 	<li><span style="color: #000000;">Giảm 300.000đ khi mua <a style="color: #000000;" href="https://shopdunk.com/microsoft-365-personal/">Microsoft 365 Personal</a> kèm máy, chỉ còn 990.000đ.</span></li>
- 	<li><span style="color: #000000;">(Lưu ý: Chương trình KM tính trên giá niêm yết, không áp dụng chung với KM khác)</span></li>
- 	<li><span style="color: #000000;">Khuyến mại Back to school (từ 16/8 - 30/9): tặng thêm Voucher 200.000đ khi mua <a style="color: #000000;" href="https://shopdunk.com/office-home-student-2019/">Microsoft Office Home &#38; Student</a>.</span><span style="color: #000000;">Tặng thêm Voucher 200K khi mua <a style="color: #000000;" href="https://shopdunk.com/microsoft-365-personal/">Microsoft 365 Personal</a> (từ 17/09-30/09/2021)</span></li>
- 	<li><span style="color: #000000;">Back to school 2021: Tặng Voucher 200K cho Học sinh, Sinh viên <a style="color: #000000;" href="https://khuyenmai.shopdunk.com/backtoschool2021">(xem ngay)</a></span></li>
-</ul>]]></description>
-		
-					<wfw:commentRss>https://giatrung.github.io/workpress/product/macbook-air-2019/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
