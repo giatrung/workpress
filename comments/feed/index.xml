@@ -11,11 +11,53 @@
 	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://giatrung.github.io/workpress</link>
 	<description>Authorised Reseller</description>
-	<lastBuildDate>Tue, 28 Sep 2021 13:34:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 00:15:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		Comment on Apple vừa cho ra mắt phiên bản MacBook Air M1 2020 (MGND3SA/A)  by Duong Gia Trung		</title>
+		<link>https://giatrung.github.io/workpress/224-2/#comment-15</link>
+
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 00:15:11 +0000</pubDate>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=224#comment-15</guid>
+
+					<description><![CDATA[incredible]]></description>
+			<content:encoded><![CDATA[<p>incredible</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Ấn tượng đầu tiên Huawei P50: Giá 16 triệu* dùng chip Snapdragon 888 by Duong Gia Trung		</title>
+		<link>https://giatrung.github.io/workpress/an-tuong-dau-tien-huawei-p50-gia-16-trieu-dung-chip-snapdragon-888/#comment-14</link>
+
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 00:14:43 +0000</pubDate>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=234#comment-14</guid>
+
+					<description><![CDATA[perfect]]></description>
+			<content:encoded><![CDATA[<p>perfect</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Apple ra bốn mẫu iPhone 13, iPad mới và Watch Series 7 by Duong Gia Trung		</title>
+		<link>https://giatrung.github.io/workpress/apple-ra-bon-mau-iphone-13-ipad-moi-va-watch-series-7/#comment-13</link>
+
+		<dc:creator><![CDATA[Duong Gia Trung]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 00:13:57 +0000</pubDate>
+		<guid isPermaLink="false">https://giatrung.github.io/workpress/?p=213#comment-13</guid>
+
+					<description><![CDATA[hello]]></description>
+			<content:encoded><![CDATA[<p>hello</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
